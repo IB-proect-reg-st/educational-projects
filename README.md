@@ -3,17 +3,35 @@
 </h1>
 <br>
 
-Pandas  Matplotlib Seaborn Plotly Plotly Express NumPy Requests OS Re 
+Pandas  Matplotlib Seaborn Plotly Plotly Express NumPy Requests OS Re  YandexSpeller os.path
+
+
+import pandas as pd, matplotlib.pyplot as plt, , plotly,  numpy as np, 
+requests, 
 
 исследовательский анализ данных и установите параметры, влияющие на цену объектов
 Проведение исследовательского анализа данных и определение параметров, которые влияют на стоимость объектов.
 
-|№|Название проекта|Описание|Использованные библиотеки и модули|
+# 
+
+|№|Название проекта|Цель проекта|Использованные библиотеки и модули|
 |:-----:|-----|:-----:|-----|
 |1|Исследование объявлений о продаже квартир|Проведение исследовательского анализа данных и определение параметров, которые влияют на стоимость объектов.| `Pandas` `Matplotlib` `Seaborn` `NumPy`|
 |2|Исследование данных о российском кинопрокате|Изучение рынка российского кинопроката и выявление текущих трендов|`Pandas` `Seaborn` `NumPy` `matplotlib.pyplot` `Plotly Express`|
 |3|Рынок заведений общественного питания Москвы|Исследование рынка заведений общественного питания Москвы; подготовка презентации| `Pandas` `Matplotlib` `Seaborn` `Plotly` `Plotly Express` `NumPy` `Re` `Folium`
-|4|[Исследование данных конференций TED](https://github.com/GavrikovIV/Yandex-practicum/tree/main/TED%20Conference%20Data%20Research)|Конференции |Cоздание дашбордов на основе данных о конференциях TED | `Pandas` `SQLAlchemy` `Tableau`|Завершен|
+|4|Исследование уровня клиентской лояльности |Определение уровня потребительской лояльности (NPS) среди клиентов и создание дашборда в Tableau Public | `Pandas` `SQLAlchemy` `Tableau`|
+|5|Исследование приложения Procrastinate Pro+|Анализ маркетинга и окупаемости рекламы|`Pandas` `NumPy` `matplotlib.pyplot` `os.path` `Plotly` `Requests`|
+|6|Исследование данных сервиса аренды самокатов GoFast|Проанализировать данные о пользователях из разных городов: частоту встречаемости городов; соотношение пользователей с подпиской и без подписки; возраст пользователей; расстояние, которое пользователь преодолел за одну поездку; продолжительность поездок. Проверьте гипотезы. | `Pandas`  `NumPy` `Matplotlib ` `Seaborn Plotly` `Plotly Express` `Plotly Graph_objects` `Requests` `Re` `Inspect` `Scipy.stats` `Os.path` `Yandexspeller`|
+
+
+
+
+
+
+
+
+
+`Pandas` `SQLAlchemy` `Tableau`|Завершен|
 |5|[Определение уровня NPS по данным Телеком компании](https://github.com/GavrikovIV/Yandex-practicum/tree/main/NPS%20%D0%BF%D0%BE%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8)|Телеком, NPS|Подготовка презентации на основе анализа данных опроса клиентов, определение уровня NPS, создание дашборда в Tableau Public | `Pandas` `SQLAlchemy` `Tableau`|Завершен|
 |6|[Анализ убытков приложения Procrastinate Pro+](https://github.com/GavrikovIV/Yandex-practicum/blob/main/procrastinate_pro/)|Приложение|Маркетинговый анализ развлекательного приложения Procrastinate Pro+ | `Pandas` `NumPy` `Matplotlib` `OS`|Завершен|
 |7|[Исследование данных с площадки StackOverFlow](https://github.com/GavrikovIV/Yandex-practicum/tree/main/StackOverFlow/)|Площадка|Произвести различные выгрузки данных StackOverFlow с помощью SQL| SQL, запросы, вложенные запросы, временные таблицы, оконные функции, аггрегирующие функции|Завершен|
