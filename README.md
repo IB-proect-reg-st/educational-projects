@@ -19,5 +19,3 @@
 
 <br>
 <span align="center">
-
-[E-mail](mailto:gavrikov85@gmail.com) ◄ ► [Telegram](https://t.me/gawsik_i)
